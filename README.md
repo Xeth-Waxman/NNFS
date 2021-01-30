@@ -1,5 +1,5 @@
 # NNFS
 
-Neural Networks From Scratch by sentdex
+Neural Networks From Scratch in Python by sentdex
 
 comments by Xeth
